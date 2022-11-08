@@ -1,0 +1,28 @@
+{
+  "address": "0x1e918a9CEE22fd7166C81b567E84ed1efdE7C786",
+  "abi": [
+    {
+      "constant": true,
+      "inputs": [
+        {
+          "name": "_c",
+          "type": "uint8"
+        },
+        {
+          "name": "_salt",
+          "type": "uint256"
+        }
+      ],
+      "name": "hash",
+      "outputs": [
+        {
+          "name": "",
+          "type": "bytes32"
+        }
+      ],
+      "payable": false,
+      "stateMutability": "view",
+      "type": "function"
+    }
+  ]
+}
